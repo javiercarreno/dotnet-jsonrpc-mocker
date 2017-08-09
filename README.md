@@ -11,7 +11,9 @@ Usage:
 Examples:
 
 Simple JsonRPC response:
+
 file 'method.example.search.endpoint'
+
 {
     "jsonrpc":"2.0",
     "id":"1",
